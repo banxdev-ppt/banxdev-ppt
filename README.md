@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">My Develop Skill</h2>
+<h2 align="left">Skills</h2>
 
 ###
 
