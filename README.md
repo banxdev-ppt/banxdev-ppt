@@ -39,7 +39,7 @@
 
 ###
 
-- LinkedIn: <a href="https://www.linkedin.com/in/ponpitak-s-73162527a/" target="_blank">Click here.</a>
+- LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/ponpitak-s-73162527a/" target="_blank">Click here.</a>
 - Instagram: <a href="https://www.instagram.com/bp.srm/" target="_blank">Click here.</a>
 - PORTFOLIO: <a href="https://banxdev-portfolio.vercel.app/" target="_blank">Click here.</a>
 - E-mail: <a href="mailto:bank.pptsrm@gmail.com" target="_blank">Click here.</a>
